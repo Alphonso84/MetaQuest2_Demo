@@ -1,0 +1,4 @@
+#Thu Apr 28 19:59:14 PDT 2022
+base.0=/Users/alphonsosensleyii/Documents/GitHub/MetaQuest2_Demo/MetaQuest2_Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

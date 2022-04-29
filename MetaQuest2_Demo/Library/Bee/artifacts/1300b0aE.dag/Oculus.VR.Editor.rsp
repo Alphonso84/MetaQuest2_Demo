@@ -118,6 +118,10 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
+-define:USING_XR_MANAGEMENT
+-define:USING_XR_SDK_OCULUS
+-define:USING_COMPATIBLE_OCULUS_XR_PLUGIN_VERSION
+-define:PRIORITIZE_OCULUS_XR_SETTINGS
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"/Applications/Unity/Hub/Editor/2021.3.0f1/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
@@ -421,6 +425,7 @@
 -r:"/Users/alphonsosensleyii/Documents/GitHub/MetaQuest2_Demo/MetaQuest2_Demo/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
 -r:"/Users/alphonsosensleyii/Documents/GitHub/MetaQuest2_Demo/MetaQuest2_Demo/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Oculus.VR.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.ref.dll"
